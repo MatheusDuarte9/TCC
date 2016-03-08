@@ -1,0 +1,38 @@
+.container-fluid {
+	width:100%;
+	margin:1%;
+}
+
+.pontos {
+	text-align:center;
+}
+
+.espaco {
+    margin-top:5%;
+}
+.menusup {
+    margin-top:-1%;
+}
+
+.imagem{
+    max-height:15%;
+    width:100%;
+}
+
+.menudefotos{
+    height:15%;
+    
+}
+
+.jumbotron {
+	margin:1% 0 1% 0;
+}	
+
+.jumbotron 2{
+	margin:1% 0 1% 0;
+}	
+
+.tamanhodiv {
+    width:80%;
+}
+

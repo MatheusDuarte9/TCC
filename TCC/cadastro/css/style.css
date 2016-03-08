@@ -1,0 +1,17 @@
+.container-fluid {
+	width:100%;
+	margin:1%;
+}
+
+.imagem{
+    max-height:15%;
+    width:100%;
+}
+
+.cad {
+	text-align:center;
+	}
+	
+.jumbotron {
+	margin:1% 0 1% 0;
+}	
